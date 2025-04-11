@@ -41,6 +41,5 @@ Aberto a novas oportunidades e projetos!
 
 [![VictorFelps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorFelps&show_icons=true&theme=radical&hide=issues)](https://github.com/VictorFelps)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFelps&layout=compact&theme=radical)](https://github.com/VictorFelps)
 
 ---
