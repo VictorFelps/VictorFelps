@@ -1,6 +1,6 @@
-## Olá! Eu sou o Victor Felipe 👋
+## Olá! Eu sou o Victor Felipe
 
-### 💻 Sobre mim
+### Sobre mim
 Sou um desenvolvedor Full Stack interessado por tecnologia e por criar soluções que fazem a diferença. Estou sempre buscando aprender novas ferramentas, melhorar minhas habilidades e participar de projetos desafiadores.
 
 Atualmente trabalho com:
@@ -13,7 +13,7 @@ Aberto a novas oportunidades e projetos!
 
 ---
 
-### 🚀 Tecnologias & Ferramentas que utilizo
+### Tecnologias & Ferramentas que utilizo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -28,19 +28,11 @@ Aberto a novas oportunidades e projetos!
 
 ---
 
-### 📫 Entre em contato comigo
+### Entre em contato comigo
 
 <div>
   <a href="https://www.linkedin.com/in/victor-felipe-soares-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:victorfsv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
----
-
-### 📊 Estatísticas GitHub
-
-[![VictorFelps's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorFelps&show_icons=true&theme=radical&hide=issues)](https://github.com/VictorFelps)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFelps&layout=compact&theme=radical)](https://github.com/VictorFelps)
 
 ---
