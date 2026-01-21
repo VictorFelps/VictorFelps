@@ -2,7 +2,7 @@
   
   # Olá, eu sou o Victor Felipe! 
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=47A248&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Laravel+%26+React+Enthusiast;Buscando+soluções+inovadoras)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=47A248&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Laravel|+React|+.NET;Buscando+soluções+inovadoras)
 
   <p>
     <a href="https://www.linkedin.com/in/victor-felipe-soares-vieira/" target="_blank">
@@ -18,7 +18,7 @@
 
 ###  Sobre mim
 
-Sou um desenvolvedor **Full Stack** apaixonado por transformar café em código e problemas complexos em soluções simples. Tenho foco especial no ecossistema **PHP/Laravel** e no dinamismo do **React**. Estou sempre em busca de novos desafios que me tirem da zona de conforto.
+Sou um desenvolvedor **Full Stack**  interessado em transformar código e problemas complexos em soluções simples. Tenho foco especial no ecossistema **Laravel e .NET** e no dinamismo do **React**. Estou sempre em busca de novos desafios que me tirem da zona de conforto.
 
 -  Atualmente trabalhando em projetos Full Stack.
 -  Aprimorando conhecimentos em arquitetura de software e testes automatizados.
