@@ -1,38 +1,64 @@
-## Olá! Eu sou o Victor Felipe
+<div align="center">
+  
+  # Olá, eu sou o Victor Felipe! 
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=47A248&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Laravel+%26+React+Enthusiast;Buscando+soluções+inovadoras)
 
-### Sobre mim
-Sou um desenvolvedor Full Stack interessado por tecnologia e por criar soluções que fazem a diferença. Estou sempre buscando aprender novas ferramentas, melhorar minhas habilidades e participar de projetos desafiadores.
-
-Atualmente trabalho com:
-- PHP & Laravel  
-- JavaScript & React  
-- Node.js  
-- PostgreSQL, MySQL & SQLite  
-
-Aberto a novas oportunidades e projetos!
-
----
-
-### Tecnologias & Ferramentas que utilizo
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <p>
+    <a href="https://www.linkedin.com/in/victor-felipe-soares-vieira/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:victorfsv@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </p>
 </div>
 
 ---
 
-### Entre em contato comigo
+###  Sobre mim
 
-<div>
-  <a href="https://www.linkedin.com/in/victor-felipe-soares-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:victorfsv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+Sou um desenvolvedor **Full Stack** apaixonado por transformar café em código e problemas complexos em soluções simples. Tenho foco especial no ecossistema **PHP/Laravel** e no dinamismo do **React**. Estou sempre em busca de novos desafios que me tirem da zona de conforto.
+
+-  Atualmente trabalhando em projetos Full Stack.
+-  Aprimorando conhecimentos em arquitetura de software e testes automatizados.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFelps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFelps&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
+
+### 🚀 Tecnologias & Ferramentas
+
+#### **Backend & Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,postgres,mysql,sqlite" />
+  </a>
+</p>
+
+#### **Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind" />
+  </a>
+</p>
+
+#### **Ferramentas**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=47A248&height=120&section=footer" />
+</div>
